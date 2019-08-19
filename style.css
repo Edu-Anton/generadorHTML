@@ -5,15 +5,11 @@
     width: 500px;
     margin-left: auto;
     margin-right: auto;
-    outline: 1px solid  red;
-
 }
 
 
 .form-group {
     display: flex;
-    /* align-items: flex-start; */
-    outline: 1 px solid red;
 }
 
 input, 
@@ -39,4 +35,6 @@ select {
     margin-top: 20px;
     height: 30px;
 }
+
+
 
